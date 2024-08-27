@@ -5,7 +5,7 @@ The `CronScheduler` is a robust tool for scheduling and managing jobs, built on 
 
 ### System Design
 
-![CronScheduler](https://github.com/user-attachments/assets/461c5d10-ed94-4ef7-a60a-c6ae5f178029)
+![CronScheduler](https://github.com/user-attachments/assets/a6d7a05b-c1c9-4c65-8918-6e9f4c577de2)
 
 ### Technical Decisions 
 
